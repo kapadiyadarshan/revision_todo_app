@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBbIE29EZubE3j5KxNFlwSQ6etFQf1EvHo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817091050885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fbRevTodoApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fb-rev-todo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fb-rev-todo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817091050885:ios:02b08da55166521534d8ec</string>
+</dict>
+</plist>

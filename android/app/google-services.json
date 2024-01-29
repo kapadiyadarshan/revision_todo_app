@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817091050885",
+    "project_id": "fb-rev-todo",
+    "storage_bucket": "fb-rev-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817091050885:android:4500c690b2b964c834d8ec",
+        "android_client_info": {
+          "package_name": "com.example.fb_rev_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzIPYaRlSU4FK_B0PARcDmCVaNz0auVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
